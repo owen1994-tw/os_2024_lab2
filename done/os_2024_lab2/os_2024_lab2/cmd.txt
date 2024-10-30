@@ -1,0 +1,11 @@
+cat t.txt | grep lab
+
+cat t.txt | tail -1
+
+cat demo.txt | tail -2  | grep going
+
+cat demo.txt | grep am
+
+pwd | grep lab
+
+pwd | pwd 
